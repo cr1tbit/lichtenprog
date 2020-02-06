@@ -1,33 +1,3 @@
-"Source:","/home/vue95/Projects/hardware/kicad/02_lichtenblinks/lichtenprog/lichtenprog.sch"
-"Date:","czw, 6 lut 2020, 17:36:20"
-"Tool:","Eeschema 5.1.5"
-"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
-"Component Count:","16"
-
-"Individual Components:"
-
-"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
-"","","C1","2u2","Device:C_Small","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
-"","","C2","2u2","Device:C_Small","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
-"","","C3","2u2","Device:C_Small","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
-"","","C4","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
-"","","D1","LED","Device:LED","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~"
-"","","D2","LED","Device:LED","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~"
-"","","J1","USB_B_Mini","Connector:USB_B_Mini","Connector_USB:USB_Mini-B_Wuerth_65100516121_Horizontal","~"
-"","","J2","Conn_01x06","Connector_Generic:Conn_01x06","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","~"
-"","","L1","L_Small","Device:L_Small","Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~"
-"","","R1","22.1k","Device:R_Small","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
-"","","R2","47.5k","Device:R_Small","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
-"","","R3","1k","Device:R_Small","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
-"","","R4","R_Small","Device:R_Small","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
-"","","R5","R_Small","Device:R_Small","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
-"","","U1","AMS1117-3.3","Regulator_Linear:AMS1117-3.3","Package_TO_SOT_SMD:SOT-223-3_TabPin2","http://www.advanced-monolithic.com/pdf/ds1117.pdf"
-"","","U2","CP2102N-A01-GQFN28","Interface_USB:CP2102N-A01-GQFN28","Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm","https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf"
-
-
-
-"Collated Components:"
-
 "Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
 "1","3","C1, C2, C3","2u2","Device:C_Small","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"
 "2","1","C4","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~"

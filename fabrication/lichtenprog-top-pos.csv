@@ -1,4 +1,4 @@
-Ref,Val,Package,PosX,PosY,Rot,Side
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C1","2u2","C_0603_1608Metric_Pad1.05x0.95mm_HandSolder",88.925000,-75.000000,180.000000,top
 "C2","2u2","C_0603_1608Metric_Pad1.05x0.95mm_HandSolder",85.125000,-75.000000,180.000000,top
 "C3","2u2","C_0603_1608Metric_Pad1.05x0.95mm_HandSolder",79.718718,-68.018718,45.000000,top
@@ -12,5 +12,5 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R3","1k","R_0603_1608Metric_Pad1.05x0.95mm_HandSolder",82.300000,-67.574999,90.000000,top
 "R4","R_Small","R_0603_1608Metric_Pad1.05x0.95mm_HandSolder",81.750000,-60.025000,270.000000,top
 "R5","R_Small","R_0603_1608Metric_Pad1.05x0.95mm_HandSolder",83.500000,-60.000000,270.000000,top
-"U1","AMS1117-3.3","SOT-223-3_TabPin2",87.000000,-69.350000,90.000000,top
-"U2","CP2102N-A01-GQFN28","QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm",78.000000,-63.400000,45.000000,top
+"U1","AMS1117-3.3","SOT-223-3_TabPin2",87.000000,-69.350000,270.000000,top
+"U2","CP2102N-A01-GQFN28","QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm",78.000000,-63.400000,-45.000000,top
