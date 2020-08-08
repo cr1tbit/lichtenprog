@@ -1,11 +1,5 @@
 ## Lichtenprog - an rather-cheap-USB-to-UART-bridge-with-3v3-out
 
-### Warning
-
-Current revision (2.0) hasn't been produced yet and so may contain bugs. The CP2012n schematic area hasn't changed though.
-
-You may want to wait for this notice to dissapear from here before ordering your own.
-
 ### Raison d'etre
 
 The device is based on CP2102n - meaning it should work properly on any OS without messy drivers from unknown sources. It's also cheaper than legit FT232 chips.
@@ -30,6 +24,10 @@ To modify these values, you may use official "xpressconfigurator" from SiLabs
 I couldn't make this tool to work on linux though - take a look at this CLI-based project, which should allow setting up basic stuff.
 
 https://github.com/cr1tbit/cp210x-cfg
+
+## Photo
+
+![lichtenprog rev 2.0 photo](img/img1.jpg)
 
 ## License
 MIT. Have fun.
