@@ -55,7 +55,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|67320001|64270001|00000000-0000-0000-0000-00005ebcebaf|e18373ab-2e94-4a23-98f8-97a35c4badb8",
+        "courtyards_overlap|79909999|61520001|00000000-0000-0000-0000-00005e3bb99c|84355314-2106-423a-8d8a-8338919d6358",
+        "courtyards_overlap|79940001|61520001|00000000-0000-0000-0000-00005e3bb98b|84355314-2106-423a-8d8a-8338919d6358"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
