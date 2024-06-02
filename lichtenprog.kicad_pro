@@ -494,9 +494,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../my-libs/lichtenprog.step",
+      "step": "fabrication/rev4.0/lichtenprog.step",
       "svg": "",
-      "vrml": "../../my-libs/lichtenprog.wrl"
+      "vrml": "fabrication/rev4.0/lichtenprog.wrl"
     },
     "page_layout_descr_file": ""
   },

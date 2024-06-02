@@ -25,9 +25,11 @@ I couldn't make this tool to work on linux though - take a look at this CLI-base
 
 https://github.com/cr1tbit/cp210x-cfg
 
-## Photo
+## Photo (outdated)
 
-![lichtenprog rev 2.0 photo](img/img1.jpg)
+![lichtenprog rev 2.0 photo](outputs/rev2.0/img1.jpg)
 
 ## License
-MIT. Have fun.
+The hardware design files, including schematics and PCB layout, are licensed under the CERN Open Hardware Licence v2 CERN-OHL-P.
+
+All documentation is released under CC BY-SA 4.0
